@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+# If you want to keep notebooks but strip outputs, use nbstripout or nbdime
+
+# Env files & secrets
+.env
+.env.*.local
+api_keys.yml
+*.pem
+*.key
+
+# Caches
+.cache/
+.mypy_cache/
+.pytest_cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Large data / trained models
+data/
+models/
+weights/
+*.ckpt
+
+# Compiled extensions
+*.so
+*.dll
+*.dylib
+
+# Keep lockfiles and project config committed for reproducibility:
+# uv.lock
+# pyproject.toml
+
+# Optional: ignore notebook outputs only (recommended for cleaner diffs)
+# You can use tools like nbstripout to automatically remove outputs on commit
