@@ -12,4 +12,5 @@ dependencies = [
     "python-dotenv>=1.2.2",
     "google-generativeai>=0.8.6",
     "groq>=1.2.0",
+    "sqlitesearch>=0.0.5",
 ]
