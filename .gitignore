@@ -47,6 +47,9 @@ dist/
 *.sublime-workspace
 *.sublime-project
 
+# Workspace-generated agent metadata
+.agents/
+
 # OS generated files
 .DS_Store
 Thumbs.db
