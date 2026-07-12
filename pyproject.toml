@@ -13,4 +13,6 @@ dependencies = [
     "google-generativeai>=0.8.6",
     "groq>=1.2.0",
     "sqlitesearch>=0.0.5",
+    "sentence-transformers>=5.5.1",
+    "psycopg[binary]>=3.3.4",
 ]
