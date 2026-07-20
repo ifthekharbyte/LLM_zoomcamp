@@ -15,4 +15,5 @@ dependencies = [
     "sqlitesearch>=0.0.5",
     "sentence-transformers>=5.5.1",
     "psycopg[binary]>=3.3.4",
+    "toyaikit>=0.0.11",
 ]

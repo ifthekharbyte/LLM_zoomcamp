@@ -40,6 +40,8 @@ dist/
 *.log
 *.sqlite3
 *.db
+*.db-shm
+*.db-wal
 
 # IDEs and editors
 .vscode/
